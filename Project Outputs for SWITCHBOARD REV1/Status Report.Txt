@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SWITCHBOARD REV1.PrjPcb]
+   Generated File[SWITCHBOARD.TXT]
+   Generated File[SWITCHBOARD.LDP]
+   Generated File[SWITCHBOARD.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:50:20 On 06-04-2018

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SWITCHBOARD.GBR   24-04-2018  11:39:26
+Gerber File Extension Report For: SWITCHBOARD.GBR   01-05-2018  14:04:00
 ------------------------------------------------------------------------------------------
 
 
@@ -15,6 +15,7 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           

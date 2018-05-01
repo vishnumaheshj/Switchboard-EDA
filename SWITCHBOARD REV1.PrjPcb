@@ -242,176 +242,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
-DocumentPath=CAMtastic4.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document15]
-DocumentPath=CAMtastic5.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
-DocumentPath=CAMtastic6.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=CAMtastic7.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=CAMtastic8.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=CAMtastic9.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=CAMtastic10.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=CAMtastic11.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=CAMtastic12.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.DRR
 DItemRevisionGUID=
@@ -433,58 +263,62 @@ DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM1
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM13
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM15
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM20
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GPB
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GPT
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTL
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTO
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTP
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTS
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.LDP
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.REP
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.RUL
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for SWITCHBOARD REV1\SWITCHBOARD.TXT
 DItemRevisionGUID=
 
@@ -816,7 +650,7 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908301~1,16908303~1,16908308~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908301~1,16908303~1,16908308~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SWITCHBOARD.PcbDoc   24-04-2018  11:39:46
+NCDrill File Report For: SWITCHBOARD.PcbDoc   01-05-2018  14:04:24
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII RoundHoles File : SWITCHBOARD.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      8mil (0.203mm)                                            Round             54        PTH        19.01inch (482.83mm)
-T2      10mil (0.254mm)                                           Round             64        PTH        1.95inch (49.61mm)
+T2      10mil (0.254mm)                                           Round             64        PTH        1.98inch (50.39mm)
 T3      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
 T4      30mil (0.762mm)                                           Round             15        PTH        5.23inch (132.72mm)
 T5      33mil (0.85mm)                                            Round             24        PTH        9.96inch (253.10mm)
